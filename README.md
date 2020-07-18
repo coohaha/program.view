@@ -2,6 +2,8 @@
 
 
 
+
+
 ## 我是谁？
 
 我是每天工作虽然**苦**逼但总能保持**哈哈**笑的`苦哈哈`。
@@ -16,23 +18,29 @@
 
 
 
+
+
 ## 故事怎么更？
 
 不定期输出，承诺一周至少一更，最近一个月内的更新在下节即各章目录中用<sup style="color:red;">new</sup>标记。
 
 
 
+
+
 ## 啥是`程序观`？
 
-### 程序观1：[明辨是<big style="color:red;">非</big>](something.wrong()/README.md) <sup style="color:red;">new</sup>
+- 程序观1：[明辨是<span style="font-size:150%; color:red;">非</span>](something.wrong()/README.md) <sup style="color:red;">new</sup>
 
-看得清事情的本质，辩得了个中的曲折，我们以时间为线，品一品程序中的是是<big style="color:red;">非非</big>。
+  看得清事情的本质，辩得了个中的曲折，我们以时间为线，品一品程序中的是是<span style="font-size:150%; color:red;">非非</span>。
 
-### 程序观2：心<big style="color:green;">向往</big>之 <span style="color:#DADADA;">*规划中*</span>
+- 程序观2：心<span style="font-size:150%; color:green;">向往</span>之 <span style="color:#DADADA;">规划中</span>
 
-### 程序观3：<big style="color:red;">舍</big><small style="color:green;">得</small>之间 <span style="color:#DADADA;">*规划中*</span>
+- 程序观3：<span style="font-size:150%; color:red;">舍</span><span style="font-size:60%; color:green;">得</span>之间 <span style="color:#DADADA;">规划中</span>
 
-### 程序观4：<span style="color:#DADADA;">*规划中*</span>
+- 程序观4：<span style="color:#DADADA;">规划中</span>
+
+
 
 
 
@@ -48,6 +56,8 @@
 |  ![](/images/head/li.png)   |   老李    |  男  | 资深程序员 |     10+      | 拥有十多年编程经验，疑难问题都找老李帮忙定位，也是小马的师傅 |   已婚   |
 | ![](/images/head/zhang.png) |   小张    |  男  | 中级程序员 |      3       |                一颗新星，学啥都快，师傅刚离职                |   单身   |
 |  ![](/images/head/ma.png)   |   小马    |  女  | 初级程序员 |     0.5      |               唯一的女同胞，入职半年，还未转正               |  恋爱中  |
+
+
 
 
 
