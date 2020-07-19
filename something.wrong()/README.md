@@ -84,7 +84,6 @@
 
 ## 尾声
 
-    <p><img src="https://www.usglassmag.com/wp-content/uploads/2017/04/brokenwindowsstudy.jpg" title="破窗效应"/></p>
 <p align="center"><img src="https://www.usglassmag.com/wp-content/uploads/2017/04/brokenwindowsstudy.jpg" title="破窗效应"/></p>
 <p align="center"><i>来源：<a href="https://www.usglassmag.com/2017/04/a-new-take-on-the-broken-windows-theory/">https://www.usglassmag.com/</a> (本人无意侵犯版权，如有侵权，请联系删除)</i></p
 
