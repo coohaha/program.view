@@ -2,7 +2,7 @@ title: 苦哈哈的程序观
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
