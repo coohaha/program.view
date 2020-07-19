@@ -1,4 +1,22 @@
-# 苦哈哈![](/images/head/coohaha.png)的程序观
+
+
+
+
+<p align="center">
+  <a href="https://coohaha.github.io/program.view/">
+    <img src="./images/head/coohaha_256x256.png" alt="cohaha logo" width="200">
+  </a>
+</p>
+<h3 align="center">苦哈哈的程序观</h3>
+<p align="center">
+  我是每天工作虽然<b>苦</b>逼但总能保持<b>哈哈</b>笑的程序员<b>苦哈哈</b>
+  <br><br>
+  <span href="#">汲取</span>  ·
+  <span href="#">归纳</span>  ·
+  <span href="#">分享</span>  ·
+  <span href="#">致用</span>  ·
+  <span href="#">创新</span>
+</p>
 
 
 
@@ -6,7 +24,7 @@
 
 ## 我是谁？
 
-我是每天工作虽然**苦**逼但总能保持**哈哈**笑的`苦哈哈`。
+我是每天工作虽然**苦**逼但总能保持**哈哈**笑的程序员`苦哈哈`。
 
 我一定不会告诉你我曾经爱着`化学`，大学选择了`物理`，跟`硬件`如火如荼的谈了5年，毕业后追随了心中暗恋多年的软件，至今每月还能输出1k代码。
 
@@ -22,7 +40,7 @@
 
 ## 故事怎么更？
 
-不定期输出，承诺一周至少一更，最近一个月内的更新在下节即各章目录中用<sup style="color:red;">new</sup>标记。
+不定期输出，承诺一周至少一更，最近一个月内的更新在下节及各章目录中用<sup style="color:red;">new</sup>标记。
 
 
 

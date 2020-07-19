@@ -1,13 +1,13 @@
-## 明辨是`非`
+# 明辨是`非`
 
-<center>
-    <p><img src="https://mk0osnewswb2dmu4h0a.kinstacdn.com/images/comics/wtfm.jpg"/></p>
-    <p><i>来源：<a href="https://www.osnews.com/story/19266/wtfsm/">https://www.osnews.com/</a> (本人无意侵犯版权，如有侵权，请联系删除)</i></p>
-</center>
+<p align="center"><img src="https://mk0osnewswb2dmu4h0a.kinstacdn.com/images/comics/wtfm.jpg"/></p>
+<p align="center"><i>来源：<a href="https://www.osnews.com/story/19266/wtfsm/">https://www.osnews.com/</a> (本人无意侵犯版权，如有侵权，请联系删除)</i></p>
+
 
 看得清事情的本质，辩得了个中的曲折，我们以时间为线，品一品程序中的是是`非非`。
 
-<center><img src="../images/uml/software-develop-process.png" tilte="典型程序开发流程"/>
+<p align="center"><img src="../images/uml/software-develop-process.png" tilte="典型程序开发流程" width="725"/></p>
+
 
 上图为典型的软件开发流程，`苦哈哈`就带领大家一起挖一挖这里面主要的`非非`。
 
@@ -84,10 +84,10 @@
 
 ## 尾声
 
-<center>
     <p><img src="https://www.usglassmag.com/wp-content/uploads/2017/04/brokenwindowsstudy.jpg" title="破窗效应"/></p>
-    <p><i>来源：<a href="https://www.usglassmag.com/2017/04/a-new-take-on-the-broken-windows-theory/">https://www.usglassmag.com/</a> (本人无意侵犯版权，如有侵权，请联系删除)</i></p>
-</center>
+<p align="center"><img src="https://www.usglassmag.com/wp-content/uploads/2017/04/brokenwindowsstudy.jpg" title="破窗效应"/></p>
+<p align="center"><i>来源：<a href="https://www.usglassmag.com/2017/04/a-new-take-on-the-broken-windows-theory/">https://www.usglassmag.com/</a> (本人无意侵犯版权，如有侵权，请联系删除)</i></p
+
 
 - 程序在其生命周期的`任何阶段`都可能引入问题
 
