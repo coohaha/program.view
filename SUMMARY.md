@@ -2,6 +2,8 @@
 
 - [前言](README.md)
 
+
+
 - 程序观1：[明辨是<span style="font-size:150%; color:red;">非</span>](something.wrong()/README.md)  <sup style="color:red;">new</sup>
 
   - 需求分析的`非非`
@@ -18,6 +20,7 @@
     - 无DFX设计
     - 忽略程序性能
     - 过度设计
+    - 过分乐观
     - [过分乐观](something.wrong()/2.design/过分乐观.md)  <sup style="color:red;">new</sup>
     - 无文档
     - 文档不共享
