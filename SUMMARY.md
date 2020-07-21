@@ -1,5 +1,7 @@
 # 苦哈哈的程序观
 
+- [前言](README.md)
+
 - 程序观1：[明辨是<span style="font-size:150%; color:red;">非</span>](something.wrong()/README.md) <sup style="color:red;">new</sup>
 
   - 需求分析的`非非`
